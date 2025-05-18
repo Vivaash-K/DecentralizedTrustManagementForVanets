@@ -1,0 +1,14 @@
+# Core dependencies
+python-socketio>=5.1.0
+numpy>=1.21.0
+statistics>=1.0.3.5
+
+# Network simulation
+simpy>=4.0.1
+
+# Cryptography for blockchain
+cryptography>=3.4.7
+
+# Utilities
+typing-extensions>=4.0.1
+python-dateutil>=2.8.2 
